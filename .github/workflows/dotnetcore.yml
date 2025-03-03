@@ -5,7 +5,6 @@ name: eShopOnWeb Build and Test
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
